@@ -2,7 +2,6 @@
 - 👀 I’m interested in Ai/Machine learning, Web-Dev, Fullstack, Applications
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on Web Applications
-- 📫 How to reach me DM or tstorm8@gmail.com
 - 😄 Pronouns: He/Him
 
 <!---

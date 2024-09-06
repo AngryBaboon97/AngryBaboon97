@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on Web Applications
 - 📫 How to reach me DM or tstorm8@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: CUrrently studying Computer Science
 
 <!---
 AngryBaboon97/AngryBaboon97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
